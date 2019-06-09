@@ -2,6 +2,9 @@ package com.huangxinghui.games.guessmusic.data;
 
 import java.util.Random;
 
+/**
+ * 全局配置
+ */
 public class Const {
 
     public static final int INDEX_FILE_NAME = 0;
