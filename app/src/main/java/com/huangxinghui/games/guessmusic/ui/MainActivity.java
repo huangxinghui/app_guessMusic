@@ -29,6 +29,9 @@ import java.util.Random;
 import java.util.Timer;
 import java.util.TimerTask;
 
+/**
+ * 主界面
+ */
 public class MainActivity extends BaseFullScreenActivity implements IWordButtonClickListener {
 
     public final static String TAG = "MainActivity";
