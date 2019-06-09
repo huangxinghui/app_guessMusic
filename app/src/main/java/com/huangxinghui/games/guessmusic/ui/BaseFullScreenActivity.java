@@ -5,6 +5,9 @@ import android.os.Bundle;
 
 import com.huangxinghui.games.guessmusic.util.NavigationBarUtil;
 
+/**
+ * 全屏activity
+ */
 public class BaseFullScreenActivity extends Activity {
 
     @Override

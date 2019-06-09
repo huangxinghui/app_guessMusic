@@ -12,6 +12,9 @@ import com.huangxinghui.games.guessmusic.R;
 import com.huangxinghui.games.guessmusic.data.Const;
 import com.huangxinghui.games.guessmusic.util.Util;
 
+/**
+ * 首页
+ */
 public class IndexActivity extends Activity {
 
     //关于按钮
