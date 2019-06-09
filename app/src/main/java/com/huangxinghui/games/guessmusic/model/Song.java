@@ -1,5 +1,8 @@
 package com.huangxinghui.games.guessmusic.model;
 
+/**
+ * 歌曲类
+ */
 public class Song {
 
     //歌曲名称
